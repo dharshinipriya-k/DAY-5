@@ -1,0 +1,1 @@
+This repository contains task for Day 05 [JSON]
